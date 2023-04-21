@@ -1,1 +1,2 @@
-# Blogging
+- `npm install` -> `npm start`
+  
